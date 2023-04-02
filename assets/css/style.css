@@ -1,0 +1,18 @@
+.container-fluid {
+    margin-top: auto;
+}
+
+.custom-footer {
+    background-color: #000;
+    color: #fff; 
+}
+
+.footer-background {
+    background-color: #000;
+    color: #fff;
+    transition: background-color 0.5s ease;
+}
+
+.footer-background:hover {
+    background-color: transparent;
+}
